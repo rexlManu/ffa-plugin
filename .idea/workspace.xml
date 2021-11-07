@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2eb5277-cd8e-4166-9adb-a7f7eeae154d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WjAahCICQPpKw3YbArdHpQf831" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/TU2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.ffapvp.freeforall.command" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="ArschGeficke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a.ArschGeficke" />
+      <module name="freeforall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.Test" />
+      <module name="freeforall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.ffapvp.Test" />
+      <module name="freeforall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.ffapvp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.ArschGeficke" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2eb5277-cd8e-4166-9adb-a7f7eeae154d" name="Default Changelist" comment="" />
+      <created>1579652695067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579652695067</updated>
+      <workItem from="1579652697888" duration="599000" />
+      <workItem from="1579665040897" duration="2036000" />
+      <workItem from="1579733379921" duration="4345000" />
+      <workItem from="1579802568033" duration="9607000" />
+      <workItem from="1579829215998" duration="16976000" />
+      <workItem from="1579895246909" duration="7619000" />
+      <workItem from="1580000224885" duration="617000" />
+      <workItem from="1582003723001" duration="7899000" />
+      <workItem from="1582081191570" duration="1419000" />
+      <workItem from="1582188124712" duration="144000" />
+      <workItem from="1582542868180" duration="2462000" />
+      <workItem from="1582562414896" duration="5170000" />
+      <workItem from="1582596271998" duration="1198000" />
+      <workItem from="1582628088257" duration="4410000" />
+      <workItem from="1582652498565" duration="9249000" />
+      <workItem from="1583239960434" duration="699000" />
+      <workItem from="1583347585105" duration="601000" />
+      <workItem from="1583427177886" duration="34000" />
+      <workItem from="1584473803142" duration="1512000" />
+      <workItem from="1584538111051" duration="601000" />
+      <workItem from="1584630468327" duration="151000" />
+      <workItem from="1585168815202" duration="1220000" />
+      <workItem from="1585178564242" duration="298000" />
+      <workItem from="1585181244322" duration="612000" />
+      <workItem from="1585536464750" duration="599000" />
+      <workItem from="1586615351677" duration="17000" />
+      <workItem from="1588164028589" duration="1650000" />
+      <workItem from="1588168737448" duration="9000" />
+      <workItem from="1601920972916" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

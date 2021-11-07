@@ -1,8 +1,0 @@
-main: de.ffapvp.freeforall.FreeForAllPlugin
-name: FreeForAll
-version: 1.0
-author: Emmanuel Lampe
-commands:
-  ffa:
-  forcemap:
-  stats:
